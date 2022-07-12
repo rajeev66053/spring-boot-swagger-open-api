@@ -21,7 +21,3 @@
   
 * To sort the API paths in order of their HTTP methods, we can add:
   > springdoc.swagger-ui.operationsSorter=method
-* We can create actuator endpoint using controller end point. The end point will be added in actator. We can access it by below url where `message-from-solar` is get method
-    > http://localhost:8082/actuator/controllerEndPoint/message-from-solar
-  
-* Use spring security to securing the actuator acess. By defualt it allow /health and /info.
