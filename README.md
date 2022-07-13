@@ -10,7 +10,7 @@
 * Then we can access docs at:
   > http://localhost:8082/api-docs/
   
-*The OpenAPI definitions are in JSON format by default. For yaml format, we can obtain the definitions at:
+* The OpenAPI definitions are in JSON format by default. For yaml format, we can obtain the definitions at:
   > http://localhost:8082/api-docs.yaml
 
 * Now We can access swagger ui by:
